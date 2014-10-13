@@ -166,4 +166,4 @@ end
 Corr=(sigma*k/C/z)^2*exp(-1i*k/2/z*(x1.^2-x2.^2)).*exp(-3/4*B*(x1-x2).^2).*D;
 
 plot_2d(xi,'x',x_prime,'x prime',real(Corr),'Correlation rectangular GS',18);
-
+% test
